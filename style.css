@@ -216,6 +216,23 @@ p {
     padding: 20px auto;
 }
 
+.about-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-aboutus-content h1 {
+    color: whitesmoke;
+    font-size: 7vmin;
+    padding: 20px;
+}
+
+.content {
+    font-size: 3vmin;
+    
+}
+
 @media only screen and (max-width: 850px) {
     .menu {
         display: block;
